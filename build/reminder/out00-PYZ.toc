@@ -11,6 +11,18 @@
    'c:\\users\\mayank '
    'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\stringprep.py',
    'PYMODULE'),
+  ('stat',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\posixpath.py',
+   'PYMODULE'),
   ('fnmatch',
    'c:\\users\\mayank '
    'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\fnmatch.py',
@@ -419,50 +431,6 @@
    'c:\\users\\mayank '
    'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\doctest.py',
    'PYMODULE'),
-  ('stat',
-   'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\stat.py',
-   'PYMODULE'),
-  ('genericpath',
-   'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\genericpath.py',
-   'PYMODULE'),
-  ('posixpath',
-   'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\posixpath.py',
-   'PYMODULE'),
-  ('enum',
-   'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\enum.py',
-   'PYMODULE'),
-  ('signal',
-   'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\signal.py',
-   'PYMODULE'),
-  ('contextlib',
-   'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\contextlib.py',
-   'PYMODULE'),
-  ('_threading_local',
-   'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\_threading_local.py',
-   'PYMODULE'),
-  ('threading',
-   'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\threading.py',
-   'PYMODULE'),
-  ('selectors',
-   'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\selectors.py',
-   'PYMODULE'),
-  ('dummy_threading',
-   'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\dummy_threading.py',
-   'PYMODULE'),
-  ('subprocess',
-   'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\subprocess.py',
-   'PYMODULE'),
   ('textwrap',
    'c:\\users\\mayank '
    'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\textwrap.py',
@@ -491,13 +459,45 @@
    'c:\\users\\mayank '
    'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\warnings.py',
    'PYMODULE'),
-  ('copy',
+  ('enum',
    'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\copy.py',
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\enum.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\selectors.py',
    'PYMODULE'),
   ('_dummy_thread',
    'c:\\users\\mayank '
    'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\copy.py',
    'PYMODULE'),
   ('tkinter.filedialog',
    'c:\\users\\mayank '

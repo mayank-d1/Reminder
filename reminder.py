@@ -75,12 +75,10 @@ if person_name:
     text2.insert(END,"Today's Birthday:-\n")
     for item in person_name:
         text2.insert(END,item+"\n")
-        text2.configure(font="Cambria 11")
         text2.pack()
 else:
     canvas.create_image(1,0, anchor=NW, image=img2)
     text2.insert(END,"No Birthday, It's work day!\n\n")
-    text2.configure(font="Cambria 11")
     text2.pack()
 if len(previous_birthday)!=0:
     text2.insert(END,"\nPrevious Birthday:-\n")
@@ -88,5 +86,6 @@ if len(previous_birthday)!=0:
         text2.insert(END,item+"'s birthday was on "+ str(previous_birthday[item])+"\n")
         text2.pack()
 
+text2.config(state=DISABLED,font="Cambria 11")
 mainloop()
 

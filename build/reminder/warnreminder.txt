@@ -1,7 +1,7 @@
 missing module named resource - imported by posix, F:\Reminder\reminder.py
 missing module named posix - imported by os, F:\Reminder\reminder.py
 missing module named _posixsubprocess - imported by subprocess, F:\Reminder\reminder.py
-missing module named 'org.python' - imported by pickle, F:\Reminder\reminder.py, xml.sax
+missing module named org - imported by pickle, F:\Reminder\reminder.py
 missing module named readline - imported by cmd, code, pdb, F:\Reminder\reminder.py
 excluded module named _frozen_importlib - imported by importlib, importlib.abc, F:\Reminder\reminder.py
 missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, F:\Reminder\reminder.py
@@ -13,7 +13,7 @@ missing module named termios - imported by tty, getpass, F:\Reminder\reminder.py
 missing module named grp - imported by shutil, tarfile, F:\Reminder\reminder.py
 missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, F:\Reminder\reminder.py
 missing module named _dummy_threading - imported by dummy_threading, F:\Reminder\reminder.py
-missing module named org - imported by copy, F:\Reminder\reminder.py
+missing module named 'org.python' - imported by copy, F:\Reminder\reminder.py, xml.sax
 missing module named _scproxy - imported by urllib.request
 missing module named elementtree - imported by xlrd.xlsx
 missing module named lxml - imported by xlrd.xlsx
