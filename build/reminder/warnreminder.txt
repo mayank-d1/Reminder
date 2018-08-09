@@ -12,11 +12,10 @@ missing module named vms_lib - imported by platform, F:\Reminder\reminder.py
 missing module named termios - imported by tty, getpass, F:\Reminder\reminder.py
 missing module named grp - imported by shutil, tarfile, F:\Reminder\reminder.py
 missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, F:\Reminder\reminder.py
-missing module named _dummy_threading - imported by dummy_threading, F:\Reminder\reminder.py
 missing module named 'org.python' - imported by copy, F:\Reminder\reminder.py, xml.sax
+missing module named _dummy_threading - imported by dummy_threading, F:\Reminder\reminder.py
 missing module named _scproxy - imported by urllib.request
 missing module named elementtree - imported by xlrd.xlsx
-missing module named lxml - imported by xlrd.xlsx
 missing module named cElementTree - imported by xlrd.xlsx
 missing module named cStringIO - imported by xlrd.timemachine
 missing module named copy_reg - imported by cStringIO

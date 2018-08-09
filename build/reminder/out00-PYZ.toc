@@ -431,6 +431,10 @@
    'c:\\users\\mayank '
    'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\doctest.py',
    'PYMODULE'),
+  ('copy',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\copy.py',
+   'PYMODULE'),
   ('textwrap',
    'c:\\users\\mayank '
    'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\textwrap.py',
@@ -495,17 +499,17 @@
    'c:\\users\\mayank '
    'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\subprocess.py',
    'PYMODULE'),
-  ('copy',
+  ('tkinter.messagebox',
    'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\copy.py',
-   'PYMODULE'),
-  ('tkinter.filedialog',
-   'c:\\users\\mayank '
-   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\filedialog.py',
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\messagebox.py',
    'PYMODULE'),
   ('tkinter.commondialog',
    'c:\\users\\mayank '
    'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\filedialog.py',
    'PYMODULE'),
   ('tkinter.dialog',
    'c:\\users\\mayank '
@@ -570,6 +574,10 @@
   ('xlrd.xlsx',
    'c:\\users\\mayank '
    'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\xlrd\\xlsx.py',
+   'PYMODULE'),
+  ('lxml',
+   'c:\\users\\mayank '
+   'diwedi\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\lxml\\__init__.py',
    'PYMODULE'),
   ('xml.etree.cElementTree',
    'c:\\users\\mayank '
